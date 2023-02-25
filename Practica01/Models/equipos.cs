@@ -12,5 +12,7 @@ namespace Practica01.Models
         public int? tipo_equipo_id { get; set; }
         public int? marca_id { get; set; }
 
+        public string estado { get; set; }
+
     }
 }
